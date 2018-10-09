@@ -1,0 +1,14 @@
+dict_path:
+train
+  imageHeight: 32
+
+
+database:
+  message:
+    host: mongodb://localhost:27017/chat
+    username:
+    password:
+    connectTimeoutMS: 1000
+    socketTimeoutMS: 1000
+    serverSelectionTimeoutMS: 2000
+  chat-bot:

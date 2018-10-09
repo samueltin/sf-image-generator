@@ -1,0 +1,2 @@
+Medigap與C部分相同嗎？
+Medigap和Medicare C部分不一樣。 Medigap（醫療保險補貼保險）政策是為補充原始醫療保險A部分和B部分而設立的私人健康保險。有10個標準化的Medigap計劃，其收益旨在支付A部分和B部分未涵蓋的Medicare核准費用。C部分醫療保險優惠計劃這種計劃類似於HMO或PPO。它將您的Medicare A部分和B部分，通常將D部分合併為一個計劃（C部分）。
